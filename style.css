@@ -531,6 +531,20 @@ button {
   opacity: 1;
 }
 
+.citation {
+  width: 78%;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.citation .author {
+  font-size: 14px;
+  font-weight: 100;
+  display: block;
+}
+
 a[data-lightbox] {
   position: relative;
   display: block;
