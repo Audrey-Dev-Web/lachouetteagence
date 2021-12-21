@@ -757,7 +757,7 @@ h4 {
 
 .black-background {
   /* change color for contrast */
-  background-color: rgba(82, 53, 27);
+  background-color: rgba(141, 113, 36, 0.747);
   padding: 40px 40px 40px 40px;
 }
 
@@ -775,7 +775,8 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  /* change background-color for contrast */
+  background-color: #a16346;
 }
 
 .tc-white {
