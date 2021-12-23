@@ -758,6 +758,8 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
 }
 
 .portfolio-row {
@@ -769,6 +771,7 @@ h4 {
   /* Add img dimension */
   /* max-width: 270px; */
   width: 100%;
+  height: 100%;
   /* height: 270px; */
 }
 
