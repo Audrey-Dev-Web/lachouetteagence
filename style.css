@@ -519,9 +519,6 @@ button {
 .scrollToTop {
   width: 40px;
   height: 40px;
-
-  color: #fff;
-
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -1078,6 +1075,12 @@ h4 {
   .bloc {
     padding-left: 0;
     padding-right: 0;
+  }
+
+  /* Add padding CTA */
+  #bloc-5-cta h2 {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
   }
 }
 
