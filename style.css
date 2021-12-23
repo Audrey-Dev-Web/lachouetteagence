@@ -793,7 +793,9 @@ h4 {
   /* change color for contrast */
   /* background-color: rgba(141, 113, 36, 0.747); */
   background-color: #a16346;
-  padding: 40px 40px 40px 40px;
+  /* replace padding for responsive */
+  /* padding: 40px 40px 40px 40px; */
+  padding: 1%;
 }
 
 .bold-link {
